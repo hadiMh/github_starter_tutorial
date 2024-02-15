@@ -1,2 +1,3 @@
 line 1 in a.txt
 some another line that is added in github for a new commit
+New line in file a.txt from the new user account
