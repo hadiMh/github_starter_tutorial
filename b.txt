@@ -1,1 +1,2 @@
 this is file b
+another line for file b
