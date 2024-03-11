@@ -1,2 +1,3 @@
 some line in file b
 some other line that is commited from GitHub
+some line in file b that is locally added
