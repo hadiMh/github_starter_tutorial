@@ -2,3 +2,10 @@ some line in file b
 some other line that is commited from GitHub
 some line in file b that is locally added
 in fearure/cart some line at the end of file b.
+this is file b
+another line for file b
+some line in file b
+some other line that is commited from github
+some line in file b that is locally added
+in feature/cart some line at the end of file b.
+add some code to file b in the main branch.
