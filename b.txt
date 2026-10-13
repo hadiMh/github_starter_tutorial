@@ -5,3 +5,5 @@ some other line that is commited from github
 some line in file b that is locally added
 in feature/cart some line at the end of file b.
 add some code to file b in the main branch.
+zaraland add newline to this project
+add another line for practice fetching and rebase merging

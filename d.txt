@@ -1,0 +1,2 @@
+hello everyone welcom to my newfile
+add some another line to this file for practice rebase merge
